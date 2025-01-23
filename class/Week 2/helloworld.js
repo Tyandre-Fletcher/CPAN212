@@ -8,6 +8,7 @@ const sayHi2 = (name) => {
 
 const sayHi3 = (name) => {
     return `whats goody ${name}`
+}
 
 //Creating a module
-module.exports = {sayHi, sayHi3}
+module.exports ={sayHi, sayHi3}
